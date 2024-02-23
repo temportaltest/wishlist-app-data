@@ -2,6 +2,7 @@ list "temportaltest's Wishlist" {
 	entry "TTest Item 1" {
 		description ""
 		quantity 1
+		tag "Office"
 		kind "Specific" {
 			offer ""
 			cost_per_unit 0
