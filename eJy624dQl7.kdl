@@ -1,5 +1,5 @@
 list "temportaltest's Wishlist" {
-	entry "CustomItem" {
+	entry "TTest Item 1" {
 		description ""
 		quantity 1
 		kind "Specific" {
