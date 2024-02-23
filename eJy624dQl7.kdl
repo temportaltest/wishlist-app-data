@@ -1,1 +1,10 @@
-list "temportaltest's Wishlist"
+list "temportaltest's Wishlist" {
+	entry "CustomItem" {
+		description ""
+		quantity 1
+		kind "Specific" {
+			offer ""
+			cost_per_unit 0
+		}
+	}
+}
